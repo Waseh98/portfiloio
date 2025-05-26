@@ -125,7 +125,7 @@ body {
 }
 
 .menu-btn:hover {
-    color: #00ff87;
+    color: #3de04b;
     transform: scale(1.1);
 }
 
@@ -246,11 +246,11 @@ body {
     content: '';
     position: absolute;
     top: 0;
-    left: -100%;
+    left: -80%;
     width: 100%;
     height: 100%;
     background: linear-gradient(90deg, transparent, rgba(255,255,255,0.4), transparent);
-    transition: 0.5s;
+    transition: 3s;
 }
 
 .cta-button:hover {
